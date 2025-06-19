@@ -6,10 +6,10 @@ This program prints the first *n* prime numbers in a nicely formatted table and 
 
 1. Compile the program:
 ```bash
-gcc -o prime_generator prime_generator.c
+gcc -o Prime_Numbers Prime_Numbers.c
 ```
 2. Run the program:
 ```bash
-./prime_generator
+./Prime_Numbers
 ```
 3. Enter how many prime numbers you want when the program asks.
