@@ -1,0 +1,18 @@
+Once upon a time  
+in a land far, far away,  
+
+There lived a coder. And he had an idea!  
+He wanted to make a "cat-walking-on-keyboard-proof" program —  
+a tool to analyze text and count letters, digits, words, and sentences.
+
+If, in the middle of typing, his cat jumped on the keyboard and typed  
+symbols like $$$ or &^*( — they would be ignored as words and not counted!!!
+
+And if he cuddled the cat and forgot to press space after punctuation,  
+it would still count as a new sentence.
+
+He tested it with 3 cats, 2 hamsters, and 1 ambitious spider,
+counted: "5, 4, 3, 2, 1" and pressed run:)
+
+
+
