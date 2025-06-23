@@ -1,0 +1,23 @@
+Name,ID,Exam Taken,Exam Number,Grade
+JohnLennon,'BEAT1234',3,1,88
+JohnLennon,'BEAT1234',3,2,74
+JohnLennon,'BEAT1234',3,3,91
+PaulMcCartney,'BEAT5678',2,1,95
+PaulMcCartney,'BEAT5678',2,2,89
+GeorgeHarrison,'BEAT4321',3,1,70
+GeorgeHarrison,'BEAT4321',3,2,85
+GeorgeHarrison,'BEAT4321',3,3,78
+RingoStarr,'BEAT8765',1,1,82
+FreddieMercury,'QUEE1234',2,1,99
+FreddieMercury,'QUEE1234',2,2,96
+DavidBowie,'ZIGGY999',3,1,90
+DavidBowie,'ZIGGY999',3,2,92
+DavidBowie,'ZIGGY999',3,3,88
+ElvisPresley,'KING0001',2,1,73
+ElvisPresley,'KING0001',2,2,77
+BobDylan,'DYLA5555',1,1,85
+JimiHendrix,'AXE8888',3,1,98
+JimiHendrix,'AXE8888',3,2,94
+JimiHendrix,'AXE8888',3,3,97
+ArethaFranklin,'SOUL2020',2,1,87
+ArethaFranklin,'SOUL2020',2,2,90
